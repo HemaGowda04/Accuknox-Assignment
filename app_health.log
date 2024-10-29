@@ -1,0 +1,6 @@
+2024-10-29 12:44:06,215:INFO:Application is UP
+2024-10-29 12:44:26,400:INFO:Application is UP
+2024-10-29 12:45:44,743:INFO:Application is UP
+2024-10-29 12:45:52,452:ERROR:Application check failed: HTTPSConnectionPool(host='www.linkedn.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000014A3E6DC740>: Failed to resolve 'www.linkedn.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-29 12:46:23,752:INFO:Application is UP
+2024-10-29 12:48:32,057:WARNING:Application is DOWN, status code: 404
