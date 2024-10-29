@@ -4,7 +4,7 @@ import logging
 logging.basicConfig(filename="app_health.log", level=logging.INFO,
                     format="%(asctime)s:%(levelname)s:%(message)s")
 
-URL = "https://httpbin.org/status/404"
+URL = "https://httpbin.org/status/404" #down
 
 def check_application_health():
     try:
